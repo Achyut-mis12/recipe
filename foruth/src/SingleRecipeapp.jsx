@@ -31,8 +31,8 @@ const SingleRecipe=()=>{
                 <p>{location.state.recipe.totalNutrients.FE.quantity}</p>
             </div>
           <div className="col-2 bg-warning">
-            <p>{location.state.recipe.totalNutrients.Sugar.label}</p>
-            <p>{location.state.recipe.totalNutrients.sugar.quantity}</p>
+            <p>{location.state.recipe.totalNutrients.SUGAR.label}</p>
+            <p>{location.state.recipe.totalNutrients.SUGAR.quantity}</p>
           </div>
 
         </div>
