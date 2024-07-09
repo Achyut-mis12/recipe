@@ -40,7 +40,7 @@ const SingleRecipe=()=>{
        </div> 
       <div className="row mt-5 d-flex justify-content-center align-item-center">
         <div className='col-md-5 d-flex justify-content-center flex-column'></div>
-        <h2 className="d-flex justify-content-center ">health label</h2>
+        <h2 className="d-flex justify-content-center  align-item-center">health label</h2>
       </div>
    
    </div>
